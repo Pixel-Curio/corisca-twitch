@@ -1,0 +1,19 @@
+{
+  "name": "corsica-twitch",
+  "version": "0.1.0",
+  "description": "Make Twitch links more friendly.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pixel-Curio/corisca-twitch.git"
+  },
+  "keywords": [
+    "corsica", "twitch", "plugin", "plugins"
+  ],
+  "author": "Pixel-Curio <michael@pixel-cur.io>",
+  "license": "MPL2",
+  "bugs": {
+    "url": "https://github.com/Pixel-Curio/corisca-twitch/issues"
+  },
+  "homepage": "https://github.com/Pixel-Curio/corisca-twitch"
+}
