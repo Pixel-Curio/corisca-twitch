@@ -18,6 +18,7 @@ module.exports = function(corsica) {
     var embed = new Twitch.Embed('twitch-embed', {width:'100%', height:'100%', channel: '{{id}}', theme:'dark', layout:'video'});
     embed.addEventListener(Twitch.Embed.VIDEO_PLAY, function() {
       var player = embed.getPlayer();
+	  player.setMuted(false);
       player.setVolume({{volume}});
     });
   </script>`
