@@ -1,6 +1,6 @@
 {
   "name": "corsica-twitch",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Make Twitch links more friendly.",
   "main": "index.js",
   "repository": {
